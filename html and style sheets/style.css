@@ -1,0 +1,112 @@
+body {
+  /* this is to change elements within the body*/
+  font-family: "Poor Story", cursive;
+  color: antiquewhite;
+}
+.second-block {
+  /* this is to make the 1st block its colour its font size and background colour*/
+  background-color: darkslategray;
+  color: antiquewhite;
+  height: 400px;
+  font-size: 4vh;
+}
+.surf-icon {
+  /* this is to change to positioning on the image and the size*/
+  height: 100px;
+  position: relative;
+  top: -20px;
+  margin: 50px;
+  float: left;
+}
+
+.van-icon {
+  /* this is to change to positioning on the image and the size*/
+  height: 100px;
+  position: relative;
+  top: -20px;
+  margin: 50px;
+  float: left;
+}
+
+.camp-icon {
+  /* this is to change to positioning on the image and the size*/
+  height: 100px;
+  position: relative;
+  top: -20px;
+  margin: 50px;
+  float: left;
+}
+.third-block {
+  /* this is to make the block its colour its font size and background colour*/
+  position: relative;
+  background-color: gray;
+  height: 400px;
+  color: antiquewhite;
+  font-size: 4vh;
+}
+.duckdiving {
+  /* this is to change to positioning on the image and the size*/
+  height: 400px;
+  position: relative;
+  top: -150px;
+  margin-left: 50px;
+}
+
+.surfboards {
+  /* this is to change to positioning on the image and the size*/
+  height: 400px;
+  position: relative;
+  top: -100px;
+  margin-left: 50px;
+}
+.forth-block {
+  /* this is to make the block its colour its font size and background colour*/
+  background-color: rgb(80, 124, 110);
+  position: relative;
+  height: 500px;
+  font-size: 6vh;
+}
+
+.lighthouse {
+  /* this is to change to positioning on the image and the size*/
+  position: relative;
+  top: -50px;
+  height: 400px;
+  margin: 10px;
+  float: right;
+}
+.half {
+  /* this is to make the text only use have of the screen*/
+  padding-left: 30px;
+  max-width: 50%;
+}
+.fith-block {
+  /* this is to make the block its colour its font size and background colour*/
+  background-color: rgb(42, 88, 38);
+  height: 300px;
+}
+.sixth-block {
+  /* this is to make the block its colour its font size and background colour*/
+  background-color: dimgray;
+  position: relative;
+}
+.boardhead {
+  /* this is to change to positioning on the image and the size*/
+  position: relative;
+  top: -160px;
+  height: 300px;
+  float: right;
+  margin: 20px;
+}
+.boardrack {
+  /* this is to change to positioning on the image and the size*/
+  position: relative;
+  height: 200px;
+  float: right;
+  margin: 20px;
+}
+.footer {
+  /* this is to make the block its colour its font size and background colour*/
+  background-color: rgb(88, 116, 96);
+  height: 400px;
+}
